@@ -33,9 +33,6 @@ public class Main {
 
         altura = MIN_ALTURA + (MAX_ALTURA - MIN_ALTURA) * RND.nextDouble();
 
-        
         System.out.printf("Altura aleatoria......: %.2f metros %n", altura);
-
     }
-
 }
